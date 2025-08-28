@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    width: 400px;
+    height: 400px;
+    border-collapse: collapse;
+    
+
+}
+#miniDis {
+    height: 50px;
+    text-align: start;
+    font-size: 15px;
+    border-bottom: none;
+    font-weight: 10;
+}
+#display {
+    height: 50px;
+    text-align: end;
+    font-size: 25px;
+    border-top: none;
+}
+td {
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+}
+
+button {
+    height: 100%;
+    width: 100%;
+    font-size: 25px;
+}
