@@ -1,0 +1,67 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#colors {
+    border:  solid;
+}
+
+#camp {
+    border:  solid;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid;
+    height: 20px;
+    width: 20px;
+}
+
+#start {
+    width: 100px;
+    height: 40px;
+}
+.pink{
+    background-color: pink;
+}
+
+.white{
+    background-color: white;
+}
+
+
+.green{
+    background-color: green;
+}
+
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+.btn {
+    height: 100%;
+    width: 100%;
+}
+
