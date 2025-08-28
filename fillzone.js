@@ -93,7 +93,7 @@ function fillCells(r, c, newColor) {
     })
 
     if (verifica()) {
-        final.innerHTML = "Hai vinto!!!"
+        final.innerHTML = "YOU WIN!!!"
         
     }
     
@@ -114,4 +114,5 @@ function verifica() {
     }
     return true;
 }
+
 
